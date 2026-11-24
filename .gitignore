@@ -1,0 +1,13 @@
+# 依赖（npm install 可复现）
+rainy-lighthouse/node_modules/
+
+# 构建产物（npm run build 可复现）
+rainy-lighthouse/dist/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志
+*.log

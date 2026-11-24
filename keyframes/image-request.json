@@ -1,0 +1,56 @@
+{
+  "requests": [
+    {
+      "prompt": "图1 是交互式三维短片《雨夜灯塔：失落的信标》的主视觉概念图，本图必须与图1 属于同一部作品、同一套美术设定：沿用图1 中同一座旧白色石砌灯塔（斑驳老化的塔身、顶部青铜菲涅尔透镜与金属支架、外围铁索栏杆、周边嶙峋礁石），沿用同一套冷暖撞色——深靛蓝暴雨夜空 #0B132B 作情绪底色、灯塔暖琥珀光 #F59E0B 作视觉焦点、青蓝色环境反光作辅助色。写实电影概念艺术质感：体积雾与可见体积光束、湿润石面与海面的镜面反射、高对比电影打光、清晰雨丝与飞沫、浅景深、细腻胶片颗粒。宽银幕 16:9 电影构图。画面中不要出现任何人物、文字、字幕、logo、水印或界面元素。 【第一幕·远景海面推进】画面内容：极低机位几乎贴着暴雨海面向前推进，画面下三分之一是翻涌的浪尖、飞沫与被狂风卷起的雨帘；远处孤岛上的灯塔只是深靛蓝雨幕中的一个小小剪影，塔顶透镜射出第一道暖琥珀光束斜切雨幕，在雨中形成清晰可见的体积光锥；海面有真实的涌浪层次、镜面反射与拍碎成沫的浪花。构图大面积留给雨丝天空，强调镜头正贴着水面前进的动势与孤独感。",
+      "reference_images": [
+        {
+          "url": "https://matrix-internal-cn.oss-cn-shanghai.aliyuncs.com/user_file_upload_tmp%2F2026-11-24%2F18a21c6f-3ea2-4f96-8805-4c5388745517.jpeg?x-oss-credential=LTAI5tKjcNxbSxktvpFqdYgH%2F20261124%2Fcn-shanghai%2Foss%2Faliyun_v4_request&x-oss-date=20261124T101455Z&x-oss-expires=3600&x-oss-signature=a11c2a0d8a5f9b6dd9e1f3ef0f30a1e6bf3ce60d7c192eb060f57d861992bbfd&x-oss-signature-version=OSS4-HMAC-SHA256",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "aspect_ratio": "16:9",
+      "area": "4K",
+      "n": 1,
+      "output_file": "keyframe_act1"
+    },
+    {
+      "prompt": "图1 是交互式三维短片《雨夜灯塔：失落的信标》的主视觉概念图，本图必须与图1 属于同一部作品、同一套美术设定：沿用图1 中同一座旧白色石砌灯塔（斑驳老化的塔身、顶部青铜菲涅尔透镜与金属支架、外围铁索栏杆、周边嶙峋礁石），沿用同一套冷暖撞色——深靛蓝暴雨夜空 #0B132B 作情绪底色、灯塔暖琥珀光 #F59E0B 作视觉焦点、青蓝色环境反光作辅助色。写实电影概念艺术质感：体积雾与可见体积光束、湿润石面与海面的镜面反射、高对比电影打光、清晰雨丝与飞沫、浅景深、细腻胶片颗粒。宽银幕 16:9 电影构图。画面中不要出现任何人物、文字、字幕、logo、水印或界面元素。 【第二幕·湿滑石阶螺旋上升】画面内容：贴近湿润石阶的近景低角度特写，螺旋上升的石阶从画面右下向左上盘旋绕塔身，石面覆盖雨水形成镜面高光、流动水痕与积水反光；暖琥珀灯光自上方洒落并沿台阶铺开，与远处青蓝色夜雾形成冷暖对比；前景是虚化的雨滴与被溅起的水花，铁索与栏杆剪影划过画面；镜头呈仰角跟随台阶上升，浅景深聚焦在中段台阶的高光与石材纹理上。",
+      "reference_images": [
+        {
+          "url": "https://matrix-internal-cn.oss-cn-shanghai.aliyuncs.com/user_file_upload_tmp%2F2026-11-24%2F18a21c6f-3ea2-4f96-8805-4c5388745517.jpeg?x-oss-credential=LTAI5tKjcNxbSxktvpFqdYgH%2F20261124%2Fcn-shanghai%2Foss%2Faliyun_v4_request&x-oss-date=20261124T101455Z&x-oss-expires=3600&x-oss-signature=a11c2a0d8a5f9b6dd9e1f3ef0f30a1e6bf3ce60d7c192eb060f57d861992bbfd&x-oss-signature-version=OSS4-HMAC-SHA256",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "aspect_ratio": "16:9",
+      "area": "4K",
+      "n": 1,
+      "output_file": "keyframe_act2"
+    },
+    {
+      "prompt": "图1 是交互式三维短片《雨夜灯塔：失落的信标》的主视觉概念图，本图必须与图1 属于同一部作品、同一套美术设定：沿用图1 中同一座旧白色石砌灯塔（斑驳老化的塔身、顶部青铜菲涅尔透镜与金属支架、外围铁索栏杆、周边嶙峋礁石），沿用同一套冷暖撞色——深靛蓝暴雨夜空 #0B132B 作情绪底色、灯塔暖琥珀光 #F59E0B 作视觉焦点、青蓝色环境反光作辅助色。写实电影概念艺术质感：体积雾与可见体积光束、湿润石面与海面的镜面反射、高对比电影打光、清晰雨丝与飞沫、浅景深、细腻胶片颗粒。宽银幕 16:9 电影构图。画面中不要出现任何人物、文字、字幕、logo、水印或界面元素。 【第三幕·灯塔旋转透镜室】画面内容：相机位于灯塔顶部的玻璃透镜室内部，近距离仰视巨大的菲涅尔旋转透镜，多层同心玻璃棱环泛着暖琥珀辉光，铜质旋转框架、齿轮与铆钉细节清晰可辨；玻璃棱镜把光折射成细碎光斑洒在锈迹斑斑的金属内壁与地板上；雨水在弧形玻璃窗上流成水痕，窗外是被雨雾扭曲的深蓝色夜空与一小片旋转变亮的琥珀光晕。",
+      "reference_images": [
+        {
+          "url": "https://matrix-internal-cn.oss-cn-shanghai.aliyuncs.com/user_file_upload_tmp%2F2026-11-24%2F18a21c6f-3ea2-4f96-8805-4c5388745517.jpeg?x-oss-credential=LTAI5tKjcNxbSxktvpFqdYgH%2F20261124%2Fcn-shanghai%2Foss%2Faliyun_v4_request&x-oss-date=20261124T101455Z&x-oss-expires=3600&x-oss-signature=a11c2a0d8a5f9b6dd9e1f3ef0f30a1e6bf3ce60d7c192eb060f57d861992bbfd&x-oss-signature-version=OSS4-HMAC-SHA256",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "aspect_ratio": "16:9",
+      "area": "4K",
+      "n": 1,
+      "output_file": "keyframe_act3"
+    },
+    {
+      "prompt": "图1 是交互式三维短片《雨夜灯塔：失落的信标》的主视觉概念图，本图必须与图1 属于同一部作品、同一套美术设定：沿用图1 中同一座旧白色石砌灯塔（斑驳老化的塔身、顶部青铜菲涅尔透镜与金属支架、外围铁索栏杆、周边嶙峋礁石），沿用同一套冷暖撞色——深靛蓝暴雨夜空 #0B132B 作情绪底色、灯塔暖琥珀光 #F59E0B 作视觉焦点、青蓝色环境反光作辅助色。写实电影概念艺术质感：体积雾与可见体积光束、湿润石面与海面的镜面反射、高对比电影打光、清晰雨丝与飞沫、浅景深、细腻胶片颗粒。宽银幕 16:9 电影构图。画面中不要出现任何人物、文字、字幕、logo、水印或界面元素。 【第四幕·信标点亮、暴雨转晴】画面内容：信标被触发点亮的一瞬间，灯塔透镜爆发耀眼的暖金色光芒，旋转光束扫过正在裂开的乌青云层，云隙间洒下第一束晨曦金光；深靛蓝夜空向青灰与淡金色过渡，被暴雨压弯的树枝、被雨水打亮的礁石与石阶反射着雨后水光；天边露出第一道亮色，画面充满从压抑到释放的转折感，灯塔仍是画面中唯一的暖金色光源。",
+      "reference_images": [
+        {
+          "url": "https://matrix-internal-cn.oss-cn-shanghai.aliyuncs.com/user_file_upload_tmp%2F2026-11-24%2F18a21c6f-3ea2-4f96-8805-4c5388745517.jpeg?x-oss-credential=LTAI5tKjcNxbSxktvpFqdYgH%2F20261124%2Fcn-shanghai%2Foss%2Faliyun_v4_request&x-oss-date=20261124T101455Z&x-oss-expires=3600&x-oss-signature=a11c2a0d8a5f9b6dd9e1f3ef0f30a1e6bf3ce60d7c192eb060f57d861992bbfd&x-oss-signature-version=OSS4-HMAC-SHA256",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "aspect_ratio": "16:9",
+      "area": "4K",
+      "n": 1,
+      "output_file": "keyframe_act4"
+    }
+  ]
+}

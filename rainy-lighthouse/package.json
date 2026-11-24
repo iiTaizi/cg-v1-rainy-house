@@ -1,0 +1,18 @@
+{
+  "name": "rainy-lighthouse",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "《雨夜灯塔：失落的信标》— WebGPU + three.js + TSL 浏览器实时交互 3D 短片",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173 --strictPort"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.8"
+  }
+}
